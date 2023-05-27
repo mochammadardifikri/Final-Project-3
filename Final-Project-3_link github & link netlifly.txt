@@ -1,0 +1,12 @@
+link github
+https://github.com/mochammadardifikri/Final-Project-3.git
+
+link netlifly
+https://duckdesigner.netlify.app/
+
+
+Pembagian Tugas
+Section A : Header & Banner = Ihza Madani Sandipraja
+Section B : About Us & Our Valuable Services = Ihza Madani Sandipraja
+Section C :Our Work = M.Ridwan
+Section D : Contact & Footer = M.Ardi
